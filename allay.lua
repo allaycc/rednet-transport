@@ -5,7 +5,7 @@ return {
   author = "alfa",
   license = "MIT",
 
-  base_url = "https://raw.githubusercontent.com/alfaoz/allay-rednet-transport/main",
+  base_url = "https://raw.githubusercontent.com/allaycc/rednet-transport/main",
 
   files = {
     lib = {

@@ -1,12 +1,12 @@
 # allay-rednet-transport
 
-Adds `rednet://` source support to [allay](https://github.com/alfaoz/allay).
+Adds `rednet://` source support to [allay](https://github.com/allaycc/allay).
 After installing, you can add a rednet-hosted source:
 
     allay source add rednet://my-station
 
 Then `allay install <package>` fetches over rednet from the host whose
-label is `my-station`. The host runs [allay-server](https://github.com/alfaoz/allay-server).
+label is `my-station`. The host runs [allay-server](https://github.com/allaycc/server).
 
 ## Install
 
